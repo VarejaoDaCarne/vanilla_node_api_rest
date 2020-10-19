@@ -13,7 +13,6 @@ POST     /api/products
 GET      /api/products/:id
 PUT      /api/products/:id
 DELETE   /api/products/:id
-
 ```
 
 ### Iniciar
