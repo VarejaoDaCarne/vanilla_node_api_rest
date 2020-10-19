@@ -5,6 +5,18 @@ Isto é para motivos de aprendizagem/prática. Na maioria dos casos, você vai q
 Tutorial seguido: <a href="https://www.youtube.com/watch?v=_1xa8Bsho6A&ab_channel=TraversyMedia">Vanilla Node.js REST API | No Framework</a>.
 
 ## Como Usar
+
+### Rotas
+```
+GET      /api/products
+POST     /api/products
+GET      /api/products/:id
+PUT      /api/products/:id
+DELETE   /api/products/:id
+
+```
+
+### Iniciar
 ```
 # Instalar dependências
 yarn
